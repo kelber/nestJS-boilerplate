@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../../styles/Home.module.css'
 
-const foo = 'bar'
+// const foo = 'bar'
 
 export default function Home() {
   return (
